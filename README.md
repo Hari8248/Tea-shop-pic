@@ -37,5 +37,3 @@ Insights help in expansion planning and product diversification.
 The project can be adapted for multiple tea shop branches or franchises.
 19. **Challenges & Limitations**
 Potential data inconsistencies, reliance on accurate record-keeping, and integration complexities.
-20.** Future Enhancements**
-Implement AI-driven predictive analytics to forecast sales trends and seasonal demands.
